@@ -22,7 +22,7 @@ Thankful to **Internee.pk** for this opportunity to kickstart my journey into th
 Through this internship, I aim to sharpen my web development skills, work on real-world projects, and build meaningful connections within the tech community.
 
 ## 🎥 Video Introduction
-Check out my full video introduction here: **[LinkedIn Post Link](PASTE-YOUR-LINKEDIN-VIDEO-LINK-HERE)**
+   Check out my full video introduction here: **[LinkedIn Post Link](https://www.linkedin.com/posts/your-actual-post-link-here)**
 
 ---
 #InterneePK #Internship #WebDevelopment
